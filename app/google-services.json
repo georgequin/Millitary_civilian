@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "431904223379",
+    "firebase_url": "https://military-communication-app-default-rtdb.firebaseio.com",
+    "project_id": "military-communication-app",
+    "storage_bucket": "military-communication-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431904223379:android:d5c0c6f62aeb5db9581d66",
+        "android_client_info": {
+          "package_name": "com.example.militiry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431904223379-q2o5notqcnlqg8isnjh9sqrc6j82oqcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNVistAx0g--SFQN1TRe6WJR5TlybT2Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431904223379-q2o5notqcnlqg8isnjh9sqrc6j82oqcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431904223379:android:65e459bca1f8d584581d66",
+        "android_client_info": {
+          "package_name": "com.example.milititrymodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431904223379-q2o5notqcnlqg8isnjh9sqrc6j82oqcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNVistAx0g--SFQN1TRe6WJR5TlybT2Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431904223379-q2o5notqcnlqg8isnjh9sqrc6j82oqcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431904223379:android:453c887a45bed69a581d66",
+        "android_client_info": {
+          "package_name": "com.example.millitary_civilian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431904223379-q2o5notqcnlqg8isnjh9sqrc6j82oqcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNVistAx0g--SFQN1TRe6WJR5TlybT2Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431904223379-q2o5notqcnlqg8isnjh9sqrc6j82oqcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
